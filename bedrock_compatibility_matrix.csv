@@ -1,6 +1,0 @@
-Model,Service,Profile_Type,Invoke_API,Converse_API,ChatCompletions_API,Responses_API
-nvidia.nemotron-nano-12b-v2,bedrock-runtime,in-region,✓,✓,✗,✗
-qwen.qwen3-coder-next,bedrock-runtime,in-region,✓,✓,✗,✗
-anthropic.claude-sonnet-4-20250514-v1:0,bedrock-runtime,in-region,✗,✗,✗,✗
-anthropic.claude-haiku-4-5-20251001-v1:0,bedrock-runtime,in-region,✗,✗,✗,✗
-moonshotai.kimi-k2.5,bedrock-runtime,in-region,✓,✓,✗,✗
